@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I am Siddhant Kulkarni 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/siddhant-kulkarni-9bb2651b4)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:sidkul2000@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sidkul2000-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhant-kulkarni-9bb2651b4/)](https://www.linkedin.com/in/siddhant-kulkarni-9bb2651b4/)
+[![Gmail Badge](https://img.shields.io/badge/-sidkul2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sidkul2000@gmail.com)](mailto:sidkul2000@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://sidkul2000.github.io/)
 
